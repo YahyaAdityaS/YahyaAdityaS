@@ -1,4 +1,3 @@
-![snake](./github-user-contribution.svg)
 <h1>Hi 👋, I'm Yahya Aditya Saputra</h1>
 <p>seperti biasa, sehat.</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -23,3 +22,5 @@
 <a target="_blank" href="https://www.facebook.com/Yahya Putra Nolin" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/yahyaditya.s" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.dribbble.com/yahyaditya.s" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a></p>
+
+![snake](./github-user-contribution.svg)
