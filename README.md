@@ -32,5 +32,5 @@ const Yahya = {
 ## 📊 GitHub Stats
 
 <div align="start">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaAdityaS&theme=black-ice&timezone=Asia/Jakarta" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaAdityaS&theme=github-dark&background=0d1117&border=30363d&border_radius=6&timezone=Asia/Jakarta" alt="GitHub Streak">
 </div>
