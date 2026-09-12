@@ -1,10 +1,10 @@
-
+<h1>Hi 👋, I'm Yahya Aditya Saputra</h1>
 
 ```javascript
 const Yahya = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "PHP", "Java", "Kotlin"],
-    askMeAbout: ["UI/UX Design", "Web Development"],
+    askMeAbout: ["UI/UX Design", "Web Development", "Graphic Design"],
     technologies: {
         frontEnd: {
             js: ["React"],
@@ -18,10 +18,10 @@ const Yahya = {
         databases: {
             sql: ["MySQL"]
         },
-        designTools: ["Figma", "Adobe Illustrator"]
+        designTools: ["Figma", "Adobe Illustrator", "Canva"]
     },
     currentFocus: "UI/UX Design & Full-Stack Development",
-    motto: "Seperti biasa, sehat & terus bertumbuh."
+    motto: "Seperti biasa, sehat."
 };
 ```
 
