@@ -29,8 +29,6 @@ const Yahya = {
   <img src="./github-user-contribution.svg" alt="Snake Graph" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="start">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaAdityaS&theme=github-dark&background=0d1117&border=30363d&border_radius=6&timezone=Asia/Jakarta" alt="GitHub Streak">
 </div>
