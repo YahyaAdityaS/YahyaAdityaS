@@ -22,7 +22,10 @@
 <a target="_blank" href="https://www.facebook.com/yahya.putranolin/?locale=id_ID" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/yahyaditya.s" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.dribbble.com/Putra204247T" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a></p>
+
 <h2>🚀 Github Streak</h2>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YahyaAdityaS&theme=tokyonight-duo&timezone=Asia/Jakarta&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&background=080C16)](https://git.io/streak-stats)
 <h2>🚀 Snake Repository</h2>
+
 ![snake](./github-user-contribution.svg)
